@@ -1,0 +1,9 @@
+node_modules/
+artifacts/
+*.zip
+.env
+.env.*
+视频成片/
+.openai/
+__pycache__/
+*.pyc

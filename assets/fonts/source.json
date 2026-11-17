@@ -1,0 +1,10 @@
+{
+  "family": "霞鹜文楷 轻便版",
+  "version": "1.530",
+  "source": "https://github.com/lxgw/LxgwWenKai-Lite/releases/tag/v1.530",
+  "source_sha256": "f799a538a3355877e597a0ae04050e897932c9ae7689eb9227c2953c5dd549ea",
+  "webfont_sha256": "1d0e099ae9b0fa67eb5a8fb4e83fbfe88e0c2c3dcf29f5abff725d5d1bedce7b",
+  "glyphs": 7707,
+  "bytes": 1634632,
+  "license": "OFL.txt"
+}

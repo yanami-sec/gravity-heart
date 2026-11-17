@@ -1,0 +1,6 @@
+{
+  "name": "gravity-heart-local",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": { "start": "node tools/start-local.cjs --open" }
+}
